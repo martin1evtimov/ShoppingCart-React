@@ -1,5 +1,5 @@
 # Take a look of the App in the link below
-https://shopping-cart-with-react.netlify.app/ currently the app doesn't properly for mobile.
+https://shopping-cart-with-react.netlify.app/ currently the app doesn't work properly for mobile.
 
 # Getting Started with Create React App
 
